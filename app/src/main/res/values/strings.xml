@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Firebase</string>
+
+    <!-- General -->
+    <string name="general_send">Enviar</string>
+    <string name="general_lastname">Last name</string>
+    <string name="general_password">Contraseña</string>
+    <string name="general_firstname">First name</string>
+    <string name="general_email">Correo electronico</string>
+
+    <!-- Login -->
+    <string name="login_welcome">Bienvenido a Firebase</string>
+    <string name="login_create_account"><u>¿Aún no tienes cuenta?</u></string>
+    <string name="login_forgot_password"><u>¿Olvidaste tu contraseña?</u></string>
+
+    <!-- Forgot -->
+    <string name="forgot_message">Por favor escriba su correo para recibir un correo electronico, donde podra restablecer su contraseña.</string>
+
+    <!-- SignUp -->
+    <string name="signup_create_account">Crear cuenta</string>
+    <string name="signup_message">Bienvenido, nos ecantará tenerte en nuestra comunidad de pruebas para Firebase. Complete el registo para iniciar tu proceso de developer.</string>
+
+</resources>
